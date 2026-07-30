@@ -1,5 +1,4 @@
-# NebulaFD-Termux
-Just a test tutorial on how to use NebulaFD in Termux. If you find any errors, let me know on Discord: @frosty_phantom1960
+## NebulaFD-Termux
 
 # How do I use NebulaFD (CLI) in Termux?
 To do this, we first need to install Termux via F-Droid or GitHub. Here are the step-by-step commands:
