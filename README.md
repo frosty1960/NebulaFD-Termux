@@ -1,7 +1,12 @@
-## NebulaFD-Termux
+# NebulaFD-Termux
+Here's a test tutorial for anyone who wants to use NebulaFD on Termux, but I'm not 100% sure it actually works because no phone has enough RAW data for this. But let me know on Discord if you want to make a suggestion or find a bug.
 
-# How do I use NebulaFD (CLI) in Termux?
+## Special thanks to Yunivers, the creator of NebulaFD, who created this wonderful project. All credit goes to the original creator. Please follow the project here:
+https://github.com/AITYunivers/NebulaFD
+
+## How do I use NebulaFD (CLI) in Termux?
 To do this, we first need to install Termux via F-Droid or GitHub. Here are the step-by-step commands:
+
 ```The code:
 > pkg update && pkg upgrade -y
 pkg install git proot-distro -y
