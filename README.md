@@ -1,4 +1,4 @@
-q# NebulaFD-Termux
+# NebulaFD-Termux
 Here's a test tutorial for anyone who wants to use NebulaFD on Termux, but I'm not 100% sure it actually works because no phone has enough RAW data for this. But let me know on Discord if you want to make a suggestion or find a bug.
 
 ## Special thanks to Yunivers, the creator of NebulaFD, who created this wonderful project. All credit goes to the original creator. Please follow the project here:
